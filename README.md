@@ -15,7 +15,7 @@ A comprehensive face recognition system built with Python (OpenCV) backend and R
 
 ```
 project/
-├── backend/                 # Python backend with OpenCV
+├── backend/                # Python backend with OpenCV
 │   ├── backend.py          # Main backend server
 │   └── db/                 # Database storage
 │       ├── photos/         # User photos (empty after cleanup)
