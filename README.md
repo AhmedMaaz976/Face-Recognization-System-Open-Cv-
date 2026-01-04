@@ -2,7 +2,7 @@
 
 A comprehensive face recognition system built with Python (OpenCV) backend and React frontend, featuring real-time face detection, registration, and authentication capabilities.
 
-##  Features
+##  Features:
 
 - **Real-time Face Detection**: Uses OpenCV for live video capture and face detection
 - **Face Registration**: Register new users by capturing and storing their facial data
