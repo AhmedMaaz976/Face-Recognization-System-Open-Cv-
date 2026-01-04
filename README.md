@@ -1,4 +1,4 @@
-# Face Recognition System with OpenCV
+# Face Recognition System with OpenCV:
 
 A comprehensive face recognition system built with Python (OpenCV) backend and React frontend, featuring real-time face detection, registration, and authentication capabilities.
 
